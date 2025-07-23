@@ -20,7 +20,7 @@ a{
 }
 img{
   max-width: 800px;
-  min-width: 500px;
+  min-width: 300px;
   margin: auto;
   margin-top: -64px;
   
@@ -28,8 +28,9 @@ img{
 }
 .top{
     border-radius: 350px;
-    max-width: 250px;
+    max-width: 130px;
     min-width: 20px;
+    
     margin: auto;
     border-style: solid;
     border-color: white;
