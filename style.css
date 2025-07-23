@@ -56,3 +56,10 @@ nav > p{
 strong{
     color:#22733da1;
 }
+.logo{
+    max-width: 100px;
+    max-height: 150px;
+}
+div{
+    display: flex;
+}
