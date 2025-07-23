@@ -20,7 +20,7 @@ a{
 }
 img{
   max-width: 800px;
-  min-width: 300px;
+  min-width: 100px;
   margin: auto;
   margin-top: -64px;
   
@@ -28,7 +28,7 @@ img{
 }
 .top{
     border-radius: 350px;
-    max-width: 130px;
+    max-width: 100px;
     min-width: 20px;
     
     margin: auto;
@@ -38,4 +38,6 @@ img{
 nav{
     display: flex;
     margin-top: -80px;
+    flex-direction: column;
+    align-items: center;
 }
