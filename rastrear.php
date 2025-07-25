@@ -1,9 +1,9 @@
 <?php
 // Dados do banco (substitua pelos seus)
-$host = "sql301.infinityfree.com"; // pegue no painel
-$usuario = "if0_39545860";
+$host = "sql110.infinityfree.com"; // pegue no painel
+$usuario = "if0_39558269";
 $senha = "91643840";
-$banco = "if0_39545860_banco";
+$banco = "if0_39558269_banco";
 
 // Link do WhatsApp (altere aqui!)
 $link_destino = "https://wa.me/5594991849613?text=Olá,%20quero%20falar%20com%20você!";
