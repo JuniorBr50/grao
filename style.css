@@ -37,7 +37,7 @@ img{
     
     
     border-radius: 4000px;
-    width: 255px;
+    width: 251px;
     height: 250px;
     
     
@@ -61,6 +61,7 @@ nav > h1 {
 nav > p{
     color: #22733D;
     font-family: "Poppins", sans-serif;
+    font-size: 22px;
     margin-top: -25px;
     padding-bottom: 10px;
 }
@@ -81,8 +82,11 @@ div > h1{
 main{
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
 }
-main >a{
+main > a {
     
     text-decoration: none;
     font-family: "Poppins", sans-serif;
@@ -94,11 +98,20 @@ main >a{
     color: white;
     padding: 10px;
     border-radius: 20px;
+    margin: 10px;
 }
-main > a > img{
+main > a > .loca{
     min-width: 5px;
     min-height: 5px;
     max-width: 15px;
     max-height: 15px;
     
 }
+main > a > .localizar{
+    min-width: 30px;
+     width: 50px;  /* ajuste o tamanho que quiser */
+     height: auto;
+     margin: -9px 1px; /* centraliza a imagem */
+    
+}
+
