@@ -94,7 +94,7 @@ main > a {
     font-style: normal;
     font-size: 20px;
     border-style: solid;
-    background-color: blue;
+    background-color: #22733da1;
     color: white;
     padding: 10px;
     border-radius: 20px;
@@ -115,3 +115,18 @@ main > a > .localizar{
     
 }
 
+main > .ajuste {
+    
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    border-style: solid;
+    background-color: #22733da1;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    padding-right: 55px;
+}
