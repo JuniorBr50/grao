@@ -78,6 +78,7 @@ div{
 }
 div > h1{
     font-size: 50px;
+    margin-left: -30px;
 }
 main{
     display: flex;
@@ -100,11 +101,12 @@ main > a {
     border-radius: 20px;
     margin: 10px;
 }
-main > a > .loca{
+main > a > .loca {
     min-width: 5px;
     min-height: 5px;
     max-width: 15px;
     max-height: 15px;
+    
     
 }
 main > a > .localizar{
@@ -130,3 +132,4 @@ main > .ajuste {
     margin: 10px;
     padding-right: 55px;
 }
+

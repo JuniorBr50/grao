@@ -6,7 +6,7 @@ $senha = "91643840";
 $banco = "if0_39558269_banco";
 
 // Link do WhatsApp (altere aqui!)
-$link_destino = "https://wa.me/5594991849613?text=Olá,%20quero%20falar%20com%20você!";
+$link_destino = "https://wa.me/5594991849613?text=Olá,%20quero%20saber%20mais";
 
 // Conectar
 $conn = new mysqli($host, $usuario, $senha, $banco);
